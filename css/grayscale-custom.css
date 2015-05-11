@@ -1,0 +1,74 @@
+
+/********* LINK COLOR ********/
+a {
+color: #CD162D;
+}
+
+
+blockquote .small, blockquote footer, blockquote small {
+  
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: #FFF;
+  padding-top: 10px;
+}
+
+blockquote {
+  margin-left: 40px;
+}
+
+/********* PARAGRAPH PADDING BOTTOM ********/
+p {
+margin-bottom: 15px;
+}
+
+/********* IMG MARGIN FOR TEXT AROUND IT ********/
+img {
+  margin-right: 10px;
+}
+
+
+/********* MOVE EVERYTHING UP A BIT ********/
+.intro .intro-body { 
+  vertical-align: baseline; 
+  padding-top: 70px;
+}
+
+
+/********* TITLE FONT SIZE AND MARGIN ********/
+.intro .intro-body .brand-heading {
+  font-size: 50px;
+  text-transform: none;
+  margin-bottom: 3px;
+}
+
+
+/********* SECTION TITLES ARE CENTERED ********/
+.col-lg-8.col-lg-offset-2 h2 {
+  text-align: center;
+}
+
+
+/********* LOWER PADDING BEFORE EACH SECTION ********/
+.content-section {
+  padding-top: 120px;
+}
+
+
+/********* SOCIAL MEDIA BUTTONS ********/
+.btn-default:hover, .btn-default:focus {
+  border: 1px solid #CD162D;
+  outline: 0;
+  color: #000;
+  background-color: #CD162D;
+}
+
+.btn-default {
+  border: 1px solid #FFF;
+  color: #FFF;
+  }
+  
+/********* FOOTER CREDS ********/
+.creds h6 {
+  text-transform: none;
+}
